@@ -34,7 +34,7 @@
 .Grid {
   display: block;
   column-count: 4;
-  column-gap: 20px;
+  column-gap: 40px;
   margin: auto;
 }
 
@@ -45,7 +45,7 @@
   width: 100%;
   border: solid 1.2px #c6c6c6;
   border-radius: 0.6rem;
-  margin-bottom: 15px;
+  margin-bottom: 45px;
 }
 
 .Card h3 {
