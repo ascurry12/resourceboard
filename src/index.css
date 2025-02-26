@@ -23,18 +23,18 @@
 }
 
 .App h1 {
+  display: inline-block;
   font-size: 45px;
-  border: solid rgb(145, 174, 109) 2px;
+  border: solid rgb(145, 174, 109) 2.5px;
   padding: 10px;
+  margin-bottom: 80px;
 }
 
 .Grid {
   display: block;
   column-count: 3;
-  column-fill: balance;
-  column-gap: 20px;
+  column-gap: 50px;
   margin: auto;
-  width: 80%;
 }
 
 .Card {
@@ -42,9 +42,10 @@
   box-shadow: 5px 5px 8px rgba(0, 0, 0, 0.106);
   display: inline-block;
   width: 100%;
-  border: solid 1.2px #c6c6c6;
+  border: solid 1.5px rgba(145, 174, 109, 0.513);
   border-radius: 0.6rem;
-  margin-bottom: 15px;
+  margin-bottom: 30px;
+  
 }
 
 .Card h3 {
@@ -55,9 +56,8 @@
 }
 
 .Card img {
-  height: 250px;
-  width: 100%;
-  border-radius: 0.6rem 0.6rem 0 0;
+  width: 200px;
+  height: 200px;
 }
 
 .Button {
