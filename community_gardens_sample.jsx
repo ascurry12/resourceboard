@@ -175,7 +175,7 @@ const gardenData = [
         "phone": null,
         "email": "highlandparkgardens@gmail.com",
         "contact": null,
-        "weburl": "https://www.facebook.com/opelikagrows",
+        "weburl": "https://www.hpcgarden.org/",
         "latitude": 33.50743186593377,
         "longitude":  -86.78025353255326
     }                   
