@@ -160,7 +160,25 @@ const gardenData = [
         "weburl": "https://www.facebook.com/opelikagrows",
         "latitude": 33.08381099146658,
         "longitude": -85.3173755084314
-    }           
+    },
+    {
+        "id": 9,
+        "name": "Highland Park Community Garden",
+        "address": {
+            "street": "3000 Highland Avenue South",
+            "state": "Alabama",
+            "city": "Birmingham",
+            "zip": "35205"
+        },
+        "image": "src/assets/hplogo.png",
+        "comments": null,
+        "phone": null,
+        "email": "highlandparkgardens@gmail.com",
+        "contact": null,
+        "weburl": "https://www.facebook.com/opelikagrows",
+        "latitude": 33.50743186593377,
+        "longitude":  -86.78025353255326
+    }                   
 ]
 
 export default gardenData
